@@ -1,6 +1,7 @@
 {
   "name": "gapbase-mcp",
-  "version": "0.1.0",
+  "mcpName": "io.github.thevibepreneur/gapbase-mcp",
+  "version": "0.1.1",
   "description": "MCP server for GapBase — query 474 validated startup gaps from Claude Desktop, Cursor, and Windsurf. Free, no signup, zero network.",
   "type": "module",
   "bin": {
